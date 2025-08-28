@@ -6,7 +6,7 @@ while True:
         print("try again wrong number!!")
         continue
     if number %2 == 0:
-        print( + number + " is even")
+        print(number," is even")
     else:
-        print( + number + " is odd")
+        print(number," is odd")
     break          
